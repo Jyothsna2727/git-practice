@@ -1,3 +1,3 @@
 #!/bin/bash
-
-date
+date=$(date)
+echo "Current date and time: $date"
